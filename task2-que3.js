@@ -62,14 +62,14 @@ const data = {
 
 console.log("Original: ")
 console.log(data)
-
+console.log('After Modification: ');
 let output;
 let new_ob = {
     ...data
 }
 output = updateData(new_ob, opt1);
 console.log(output)
-console.log('After Modification: ');
+
 output = updateData(output, opt2);
 console.log(output)
 
