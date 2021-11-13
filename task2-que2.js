@@ -67,3 +67,12 @@ console.log(data);
 console.log('After Modification: ');
 console.log(primitive_check(data));
 /* primitive_check(data); */
+
+
+/**
+
+Quetion: 2
+Name: Sabbir Ahmed Shawon
+Github Usename: sabbirshawon
+
+ */
